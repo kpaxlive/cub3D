@@ -1,0 +1,15 @@
+NO ./walls/end.xpm
+SO ./walls/nether.xpm
+WE ./walls/dirt.xpm
+EA ./walls/stone.xpm
+DO ./walls/door.xpm
+
+F 124,252,0
+C 135,206,235
+
+11111111
+10000001
+10010001
+10001001
+10W0W001
+11111111
